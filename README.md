@@ -3,7 +3,7 @@
 
 ### 项目地址
 
-[在线演示](http://114.55.125.22:443/fake-bilibili '在线演示')
+[在线演示](http://114.55.125.22:443/fake-bilibili.html '在线演示')
 
 运行截图
 ![](https://ftp.bmp.ovh/imgs/2021/04/fe6fcb6e842ab185.png)
